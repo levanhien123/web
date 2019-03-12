@@ -3,7 +3,7 @@
 # Gioi THieu
 # Ho Tro
 '''c++
-int main
+int main()
 {
 return 0;
 }
