@@ -2,8 +2,9 @@
 # Trag Chu  
 # Gioi THieu
 # Ho Tro
-'''c++
+```c++
 int main()
 {
 return 0;
+
 }
